@@ -1,0 +1,12 @@
+body {
+  background-color: aquamarine;
+}
+body h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+body p {
+  text-align: center;
+  font-weight: 300;
+  font-family: sans-serif;
+}/*# sourceMappingURL=index.css.map */
